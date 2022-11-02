@@ -1,0 +1,6 @@
+<div class="h60 d-flex align-items-center justify-content-center position-relative bg-img"><div class="black-overlay"></div><h1 class="mt-5 text-light position-relative">ABOUT US</h1></div>
+<div class="w-100 d-flex flex-column align-items-center justify-content-evenly py-4 my-3">
+    <div class="container h-100">
+        <p style="text-align: justify;">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Atque, id corrupti quo molestiae reiciendis ea eveniet explicabo, itaque expedita vitae dolorem exercitationem fuga dolore, porro aliquam aut assumenda autem! Totam Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui consequatur quam ducimus obcaecati ea ratione amet sint accusamus ab ipsam dolore distinctio dicta commodi esse, eaque numquam corrupti quia? Ex. Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat quibusdam doloremque nihil cupiditate. Consequatur voluptatem inventore similique? Hic, odio, repellendus saepe assumenda suscipit, quis minima eveniet laborum ratione iusto minus?</p>
+    </div>
+</div>
